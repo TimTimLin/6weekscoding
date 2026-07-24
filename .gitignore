@@ -1,0 +1,10 @@
+.venv/
+.uv-cache/
+.uv-python/
+__pycache__/
+.pytest_cache/
+*.pth
+final_project/data/
+final_project/outputs/*.pt
+final_project/outputs/*.pth
+final_project/outputs/*.log
