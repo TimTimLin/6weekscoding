@@ -8,3 +8,20 @@ final_project/data/
 final_project/outputs/*.pt
 final_project/outputs/*.pth
 final_project/outputs/*.log
+# Project 2 generated files
+final_project_2/data/
+final_project_2/data_cifar10/
+final_project_2/outputs/
+
+# Project 3 generated files
+final_project_3/data/
+final_project_3/outputs/
+
+# Project 4 generated files
+final_project_4/data/
+final_project_4/outputs/
+final_project_4/assets/
+
+# Project 5 generated files
+final_project_5/data/
+final_project_5/outputs/
